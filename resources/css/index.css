@@ -1,0 +1,13 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  background: black;
+  overflow: hidden;
+  height: 100%;
+}
+
+
+@font-face {
+    font-family: "segoe-ui-black";
+    src: url("/assets/fonts/segoe-ui-black-2.ttf");
+}
