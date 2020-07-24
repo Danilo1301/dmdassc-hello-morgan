@@ -9,12 +9,11 @@
     "socket.io": "^2.3.0"
   },
   "devDependencies": {},
+  "engines": {
+    "node": "12.x"
+  },
   "scripts": {
     "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Danilo1301/dmdassc-hello-morgan.git"
   },
   "author": "Danilo",
   "license": "ISC"
